@@ -1,0 +1,23 @@
+---
+title: Data Providers
+description: Overview of ethereum data providers.
+lang: en
+sidebar: true
+incomplete: true
+---
+Data providers allow you to connect and communicate with the Ethereum network without having to run your own node instance. Some providers also offer tools and analytics to gather data and help with your development. 
+
+## Providers {#providers}
+
+**Alchemy -** **_Ethereum developer platform providing access to comprehensive APIs, analytics, and monitoring tools for Ethereum data on all public networks**
+
+- [Website](https://alchemyapi.io/)
+- [Sign Up](https://dashboard.alchemyapi.io/signup/)
+- [Documentation](https://docs.alchemyapi.io/)
+- [Discord](https://discord.gg/A39JVCM)
+
+## Further reading {#further-reading}
+
+_Know of a community resource that helped you? Edit this page and add it!_
+
+## Related topics {#related-topics}
